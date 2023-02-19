@@ -1,0 +1,5 @@
+env/
+
+output*.txt 
+input*.txt
+!input.txt
